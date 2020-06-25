@@ -2,7 +2,7 @@
 ### * What is "CustomerSegmentationRFM.ipynb" about?
 	 - Python code using RFM model to segment customers
 	 - You can use it to perform RFM anlaysis to segment customers based on their purchase history
-     - This is a part of a project I'm working on for a research group @ U of Chicago 
+     - This is a part of a project commercialy made for a sportsbook company
 ### * What is RFM analysis?
      - RFM (Recency, Frequency, Monetary) analysis is a proven marketing model for behavior based customer segmentation. It groups customers based on their transaction history – how recently, how often and how much did they buy.
      - Please read details about RFM model here: https://www.putler.com/rfm-analysis/
